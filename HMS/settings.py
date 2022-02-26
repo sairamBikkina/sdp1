@@ -28,7 +28,7 @@ SECRET_KEY = '$arrhmn+kw7!ym+$trw7l7bk^)1cyom!2i0vi9+u91mm82p(o3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['mrmapp.herokuapp.com']
+ALLOWED_HOSTS = ['hws12.herokuapp.com']
 
 
 AUTH_USER_MODEL = 'app.User'
