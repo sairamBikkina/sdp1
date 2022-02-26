@@ -28,7 +28,7 @@ SECRET_KEY = '$arrhmn+kw7!ym+$trw7l7bk^)1cyom!2i0vi9+u91mm82p(o3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['priceless-tereshkova-dc6da2.netlify.com']
+ALLOWED_HOSTS = ['priceless-tereshkova-dc6da2.netlify.app.com']
 
 
 AUTH_USER_MODEL = 'app.User'
